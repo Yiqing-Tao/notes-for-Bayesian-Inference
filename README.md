@@ -1,4 +1,4 @@
-# Notes for <Bayesian Inference and Machine Learning>
+# Notes for \< Bayesian Inference and Machine Learning \>
 
  an: yiqing.tao
  
